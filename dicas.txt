@@ -1,0 +1,11 @@
+C:\Users\Name\djangogirls> myvenv\Scripts\activate
+python manage.py runserver
+
+git status >>>>>> arquivos que foram modificados desde o ultimo update
+git add --all >>> vai adicionar ao git 
+git status (novamente) >>> vai mostrar quais foram modificados
+git commit -m "bla bla bla" >>>> é uma mensagem que fica no histórico para guardar quais alterações foram feitas
+git push >>>> envia pro servidor
+
+vai pro pythonanywhere, bash, e: cd carloscamposjr.pythonanywhere.com, git pull
+depois vai na web page e aperta RELOAD. FOI!
